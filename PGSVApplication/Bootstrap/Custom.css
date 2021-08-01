@@ -1,0 +1,1194 @@
+﻿.title-header{
+    text-align: right;
+    margin-top: 2px;
+}
+
+.barmenu:hover{
+   font-weight:bold;
+}
+    
+.Button{
+    background: transparent;
+    box-sizing: border-box;
+    color: inherit;
+    cursor: pointer;
+    display: inline-block;
+    font: inherit;
+    line-height: normal;
+    margin: 0;
+    position: relative;
+    text-align: center;
+}
+.formartButton {
+    width: 200px;
+}
+
+.modal {
+  text-align: center;
+  padding: 0;
+}
+
+.modal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px;
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.modal-footer{
+    text-align: Right;
+}
+
+.center-page{
+    width:350px;
+    height: 350px;
+    position: absolute;
+
+    top:0px;
+    bottom:300px;
+    left:0;
+    right:0;
+
+    margin:auto;
+}
+
+.space-vert{
+    margin-top: -4px;
+    margin-bottom: 0px;
+}
+
+.MS-Footer-Position{
+    width:auto;
+    height: auto;
+
+    margin:auto;
+}
+
+.RCP-Footer-Position{
+    width:auto;
+    height: auto;
+
+    margin:auto;
+}
+
+.remember-me{
+   text-align: left;
+   font-size: 12px;
+   color: rgba(187, 182, 182, 0.91);
+}
+
+.position-panel{
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right:auto;
+} 
+
+.position-panel-button{
+    text-align: right;
+}
+
+#pagetop{
+    position: fixed;
+    height: 200px;
+    background-color: #ffffff;
+    color: #7bcbb7;
+    padding-top: 3px;
+    transition: height 0.3s linear 0s, padding 0.3s linear 0s;
+    overflow: hidden;
+}
+
+#menu{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: #807e7e;
+    height: 80px;
+    transition: height 0.3s linear 0s;
+    text-align:center;
+    margin-top:auto;
+}
+
+
+#navbar{
+    background-color: #1070b7;
+    color: #ffffff;
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+
+.masterhead{
+    position: relative;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    color: #ffffff;
+    text-align: center;
+    /*text-shadow: 0 1px 0*/ 
+    background-color: rgba(187, 182, 182, 0.91);
+}
+
+.headerItem{
+    color: #ffffff;
+}
+.masterfooter{
+    padding-top: 5px;
+    padding-bottom: 30px;
+    color: #808080;
+    text-align: center;
+    background-color: #ffffff;
+}
+.pagebackcolor{
+    background-color: #efefef;
+}
+
+.ReachUs-Icons{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*.MasterContent{
+    padding-top: 65px;
+}*/
+
+.KeyObject{
+    width: 50px;
+    height: 10px;
+    text-align:center;
+}
+
+.slider-size {
+height: 400px; /* This is your slider height */
+}
+.carousel {
+width:100%; 
+margin:0 auto; /* center your carousel if other than 100% */ 
+}
+.title-header{
+    text-align: right;
+    margin-top: 2px;
+}
+
+.Button{
+    background: transparent;
+    box-sizing: border-box;
+    color: inherit;
+    cursor: pointer;
+    display: inline-block;
+    font: inherit;
+    line-height: normal;
+    margin: 0;
+    position: relative;
+    text-align: center;
+}
+
+.formartButton {
+    width: 200px;
+}
+
+.modal {
+  text-align: center;
+  padding: 0;
+}
+
+.modal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px;
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.modal-footer{
+    text-align: Right;
+}
+
+.center-page{
+    width:350px;
+    height: 350px;
+    position: absolute;
+
+    top:0px;
+    bottom:300px;
+    left:0;
+    right:0;
+
+    margin:auto;
+}
+
+.space-vert{
+    margin-top: -4px;
+    margin-bottom: 0px;
+}
+
+.MS-Footer-Position{
+    width:auto;
+    height: auto;
+
+    margin:auto;
+}
+
+.RCP-Footer-Position{
+    width:auto;
+    height: auto;
+
+    margin:auto;
+}
+
+.remember-me{
+   text-align: left;
+   font-size: 12px;
+   color: rgba(187, 182, 182, 0.91);
+}
+
+.position-panel{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right:auto;
+} 
+
+.position-panel-button{
+    text-align: right;
+}
+
+#pagetop{
+    position: fixed;
+    height: 200px;
+    background-color: #ffffff;
+    color: #7bcbb7;
+    padding-top: 3px;
+    transition: height 0.3s linear 0s, padding 0.3s linear 0s;
+    overflow: hidden;
+}
+
+#menu{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: #807e7e;
+    height: 80px;
+    transition: height 0.3s linear 0s;
+    text-align:center;
+    margin-top:auto;
+}
+
+#navbar{
+    background-color: #1070b7;
+    color: #ffffff;
+    /*padding-top: 5px;*/
+    /*padding-bottom: -3px;*/
+}
+
+.btnFormat{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.headerItem{
+    color: #ffffff;
+}
+
+.masterfooter{
+    padding-top: 5px;
+    padding-bottom: 30px;
+    color: #808080;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.pagebackcolor{
+    background-color: #efefef;
+}
+
+.ReachUs-Icons{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.MasterContent{
+    padding-top: 60px;
+    background-color: #ffffff;
+}
+
+.KeyObject{
+    width: 50px;
+    height: 10px;
+    text-align:center;
+}
+
+format-keygen{
+    text-align: center;
+}
+
+.mdBtnContSignup{
+    padding-top: 15px;
+}
+
+.format-keygenTextbox{
+    text-align:center;
+}
+
+.sub-countainer{
+    background-color: #ffffff;
+}
+
+.grad1 {
+    background: -webkit-linear-gradient(left, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); /* Standard syntax (must be last) */
+}
+
+.cc-map-wrapper {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 */
+        padding-top: 25px;
+        height: 0;
+}
+.cc-map-wrapper iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+}
+
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+    }
+        
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+
+.navbar-toggle.navbar-left {
+  float: left;
+  margin-left: 10px;
+  padding-left:10px;
+}
+
+.acountProfile{
+  width: 100%;
+  float: none;
+  margin-right: 0;
+}
+
+.tnav .navbar .container { height: 28px; }
+
+.lbAccountInfo{
+    padding-left: 15px;
+}
+
+.myFile {
+  position: absolute;
+  overflow: hidden;
+  left: 0;
+  right:0;
+  top: 90%;
+  bottom: -30px;
+}
+
+.myFile input[type="file"] {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 2px;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  cursor: pointer;
+}
+
+.resProPic{
+    position: relative;
+    text-align:center;
+    padding-bottom: 10px;
+    border: 0;
+}
+
+.btnSaveProPic{
+    text-align:center;
+    padding-bottom:9px;
+}
+
+.position-error-text{
+    text-align:center;
+}
+
+.back-to-top{
+    display:none;
+    position: fixed;
+    bottom:25px;
+    right:25px;
+}
+
+.formatAdminInfo{
+    padding: 1px;
+    text-align:left;
+}
+
+.txtAdminName{
+    font-size: 25px;
+    text-align:left;
+    /*font-family:Arial;*/
+}
+
+.txtTodaysDate{
+    font-size: 17px;
+    text-align:left;
+}
+
+.hepl-icon{
+    position:fixed;
+    padding-bottom:5px;
+}
+
+.format-profile{
+    /*background-color: #7bcbb7;*/
+    text-align:left;
+    padding-top:30px;
+    
+}
+
+/* this information was taken from this site and was addited http://bootsnipp.com/snippets/90Mgl */
+.card {
+    padding-top: 20px;
+    margin: 10px 0 20px 0;
+    background-color: rgba(214, 224, 226, 0.2);
+    border-top-width: 0;
+    border-bottom-width: 2px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.card .card-heading {
+    padding: 0 20px;
+    margin: 0;
+}
+
+.card .card-heading.simple {
+    font-size: 20px;
+    font-weight: 300;
+    color: #777;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.card .card-heading.image img {
+    display: inline-block;
+    width: 46px;
+    height: 46px;
+    margin-right: 15px;
+    vertical-align: top;
+    border: 0;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.card .card-heading.image .card-heading-header {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card .card-heading.image .card-heading-header h3 {
+    margin: 0;
+    font-size: 14px;
+    line-height: 16px;
+    color: #262626;
+}
+
+.card .card-heading.image .card-heading-header span {
+    font-size: 12px;
+    color: #999999;
+}
+
+.card .card-body {
+    padding: 0 20px;
+    margin-top: 20px;
+}
+
+.card .card-media {
+    padding: 0 20px;
+    margin: 0 -14px;
+}
+
+.card .card-media img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.card .card-actions {
+    min-height: 30px;
+    padding: 0 20px 20px 20px;
+    margin: 20px 0 0 0;
+}
+
+.card .card-comments {
+    padding: 20px;
+    margin: 0;
+    background-color: #f8f8f8;
+}
+
+.card .card-comments .comments-collapse-toggle {
+    padding: 0;
+    margin: 0 20px 12px 20px;
+}
+
+.card .card-comments .comments-collapse-toggle a,
+.card .card-comments .comments-collapse-toggle span {
+    padding-right: 5px;
+    overflow: hidden;
+    font-size: 12px;
+    color: #999;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.card-comments .media-heading {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.card.people {
+    position: relative;
+    display: inline-block;
+    width: 170px;
+    height: 300px;
+    padding-top: 0;
+    margin-left: 20px;
+    overflow: hidden;
+    vertical-align: top;
+}
+
+.card.people:first-child {
+    margin-left: 0;
+}
+
+.card.people .card-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 170px;
+    height: 150px;
+    background-color: #ffffff;
+}
+
+.card.people .card-top.green {
+    background-color: #53a93f;
+}
+
+.card.people .card-top.blue {
+    background-color: #427fed;
+}
+
+.card.people .card-info {
+    position: absolute;
+    top: 150px;
+    display: inline-block;
+    width: 100%;
+    height: 101px;
+    overflow: hidden;
+    background: #ffffff;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.card.people .card-info .title {
+    display: block;
+    margin: 8px 14px 0 14px;
+    overflow: hidden;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 18px;
+    color: #404040;
+}
+
+.card.people .card-info .desc {
+    display: block;
+    margin: 8px 14px 0 14px;
+    overflow: hidden;
+    font-size: 20px;
+    line-height: 16px;
+    color: #737373;
+    text-overflow: ellipsis;
+}
+
+.card.people .card-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: inline-block;
+    width: 100%;
+    padding: 10px 20px;
+    line-height: 29px;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.card.hovercard {
+    position: relative;
+    padding-top: 0;
+    overflow: hidden;
+    text-align: center;
+    background-color: rgba(214, 224, 226, 0.2);
+}
+
+.card.hovercard .cardheader {
+    background-image: url('../Images/header-pic3.png');
+    background-size: cover;
+    position:center;
+    height: 130px;
+    width: 100%;
+}
+
+.card.hovercard .avatar {
+    position: relative;
+    top: -30px;
+    margin-bottom: -30px;
+}
+
+.card.hovercard .avatar img {
+    width: 150px;
+    height: 150px;
+    max-width: 200px;
+    max-height: 200px;
+    -webkit-border-radius: 30%;
+    -moz-border-radius: 30%;
+    border-radius: 50%;
+}
+
+.card.hovercard .info {
+    padding: 4px 8px 10px;
+}
+
+.card.hovercard .info .title {
+    margin-bottom: 4px;
+    font-size: 24px;
+    line-height: 1;
+    color: #262626;
+    vertical-align: middle;
+}
+
+.card.hovercard .info .desc {
+    overflow: hidden;
+    font-size: 12px;
+    line-height: 20px;
+    color: #737373;
+    text-overflow: ellipsis;
+}
+
+.card.hovercard .bottom {
+    padding: 0 20px;
+    margin-bottom: 30px;
+}
+
+#map-canvas {
+    width: 100%;
+    height: 360px;
+    margin-bottom: 3px;
+    border: 2px solid #fff;
+}
+
+.ddmHover li:hover .sub-menu {
+    visibility: visible;
+}
+
+.dd:hover .dropdown-menu {
+    display: block;
+}
+
+.multiLineTextBox{
+    max-width: 100%;
+    min-width: 100%;
+}
+
+.column {
+    float: left;
+    margin-left: 2.38095%;
+    margin-right: 2.38095%;
+    width: 95.2381%;
+    min-height: 1px;
+}
+
+div1{
+    padding-top:50px;
+    margin-bottom:50px;
+}
+.sexy_line{ 
+    display:block;
+    border:none;
+    color: #737373;
+    height:1px;
+    padding: 10px, 10px;
+    /*background:black;*/
+    background: -webkit-gradient(radial, 60% 60%, 0,50% 50%, 550, from(#737373), to(#fff));
+}
+
+.FormatTable{
+    /*cellpadding: 0;
+    cellspacing: 0;
+    align: center;*/
+    background-color: rgba(214, 224, 226, 0.2);
+}
+
+.stylePostPic{
+    width: 100px;
+    height: 100px;
+}
+
+/*sfdhgjkfdhjkghsdkjfhgsjkdfhgsd*/
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    height: 100%;
+    margin-bottom: 20px;
+}
+
+.img-container{
+    height: 100%; 
+    width: 100%; 
+}
+
+.nopadding {
+   padding: 1 !important;
+   margin: 1 !important;
+}
+
+.nopaddingPic {
+   padding: 1 !important;
+   margin: 1 !important;
+}
+
+.FaultPic:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.alert{
+    width:100%;
+}
+
+.naam{
+    font-family: "Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,sans-serif;
+    font-size: 86%;
+    color: #505050;
+    display: inline-block;
+    display: inline-block;
+    max-width: 160px;
+}
+
+.naam a:hover{
+    background-color:#e5e5e5 !important;
+}
+
+.barmenu:hover{
+   font-weight:bold;
+}
+
+.bt:hover{
+    background-image:none !important;
+    background-color:#95A5A6 !important;
+}
+
+.notice {
+    padding: 15px;
+    background-color: #fafafa;
+    border-left: 6px solid #7f7f84;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+       -moz-box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+            box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+}
+
+.notice-sm {
+    padding: 10px;
+    font-size: 80%;
+}
+
+.notice-warning {
+    border-color: #FEAF20;
+}
+.notice-warning>strong {
+    color: #FEAF20;
+}
+
+.img {
+-webkit-transition-duration: 500ms;
+    -moz-transition-duration: 500ms;
+    -o-transition-duration: 500ms;
+    transition-duration: 500ms;
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;
+}
+.img:hover {
+transform: rotate(90deg);
+-webkit-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+}
+
+.Scorebtn {
+    height: 15px;
+    width: 15px;
+    -moz-border-radius: 35px;
+    border-radius: 10px;
+    border: none;
+    padding-top: 2px;
+}
+
+.lbScore{
+    font-size:10px;
+    font-style:italic;
+    color:#737373;
+}
+
+.fomartResFaultDate{
+    font-size:11px;
+    font-style:italic;
+}
+
+.formatResName{
+    font-size:13px;
+    font-style:italic;
+}
+
+.FormatFaultType{
+    
+}
+
+.format-home-fault-pics{
+    width:80%;
+    height: 180px;
+}
+
+.H2-Section{
+    text-align: center;
+}
+
+.H2-Section p{
+    margin-bottom: 20px;
+    font-size: 15px;
+    line-height: 1.4;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.H2-Section .H2-Bottom-text{
+    margin-bottom: 30px;
+    font-size: 18px;
+    line-height: 1.4;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.H2-Section h2{
+    margin-bottom: 5px;
+    font-size: 35px;
+    font-weight: 400;
+    color: #333;
+}
+
+.H2-Section .H2-SectionSH{
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 1.4;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.H3-Section{
+    text-align: center;
+}
+
+.H3-Section h2{
+    margin-bottom: 5px;
+    font-size: 35px;
+    font-weight: 400;
+    color: #333;
+}
+
+.H3-Section p{
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.4;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.H4-Section{
+    text-align: center;
+}
+
+.HLogFault-Button button {
+    text-align: center;
+    background-color:#ffffff;
+    border-color: #FEAF20;
+    color:#FEAF20;   
+}
+
+.HLogFault-Button button:hover{    
+    background-color:#FEAF20;
+    color:#ffffff;
+    border-color: #ffffff;
+}
+
+.HLogFault-Button button:active,.HLogFault-Button button.active {
+    background-color:#FEAF20;
+    color:#ffffff;
+    border-color: #ffffff;
+}
+
+.HLogFault-Button button:focus,.HLogFault-Button button.focus {
+    background-color:#FEAF20;
+    color:#ffffff;
+    border-color: #ffffff;
+}
+
+.format-fault-pic{
+    margin-left:-1px;
+    margin-right:-1px;
+}
+
+.carousel {
+    background-color: white;
+}
+
+.outer {
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.middle {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.inner {
+    margin-left: auto;
+    margin-right: auto; 
+    width: 100%;
+    text-align:center;
+}
+
+.inner .Header{
+    margin-bottom: 5px;
+    font-size: 100px;
+    font-weight: 400;
+    color: #333;
+}
+
+.inner .ErrorBtn{
+    padding-top: 20px;
+}
+
+.inner .xx{
+    color:#FEAF20;
+}
+
+.inner button{
+    background-color:#FEAF20;
+    color:#ffffff;
+    border-color: #ffffff;
+}
+
+.inner button:hover{
+    background-color:#ffffff;
+    border-color: #FEAF20;
+    color:#FEAF20;
+}
+
+.zz{
+    display:none;
+}
+
+.format-faultlog-propic{
+    width: 40px;
+    height: 40px;
+}
+
+.format-resmaster-propic{
+    width: 30px;
+    height: 30px;
+}
+
+.format-resmasterdropdown-propic{
+    width: 50px;
+    height: 50px;
+}
+
+.ff p{
+    margin-bottom: 5px;
+}
+.ssx{
+    text-align:center;
+}
+
+.formatRefNo{
+    text-align:center;
+    font:20px;
+    font-size:15px;
+    color:#FEAF20;
+    padding-top:5px;
+}
+
+button.launch {
+background-color: Transparent;
+background-repeat:no-repeat;
+border: none;
+cursor:pointer;
+overflow: hidden;
+outline:none;
+}
+
+button.launch:hover {
+    text-decoration:underline;
+}
+
+.formatFaultDay{
+   font-size:20px;
+}
+
+.formatFaultDate{
+   font-size:10px;
+}
+
+.formatFLogID{
+    display:none;
+}
+
+.zzx{
+    width:80%;
+}
+
+.pager{
+    padding-top:0 !important;
+} 
+
+.input-group.input-group-unstyled input.form-control {
+    -webkit-border-radius: 4px;
+       -moz-border-radius: 4px;
+            border-radius: 4px;
+}
+.input-group-unstyled .input-group-addon {
+    border-radius: 4px;
+    border: 0px;
+    background-color: transparent;
+    margin-top: 1px !important;   
+}
+
+.formatGridView{
+    width:100% ;
+    height:100%;
+}
+
+/*Taken from https://codepen.io/Founts/pen/gmhcl and edited so that it could be what I wanted.*/
+/* CSS talk bubble */
+.talk-bubble {
+	margin: 5px;
+    display: inline-block;
+    position: relative;
+	height: auto;
+	background-color: lightblue;
+}
+.talk-bubble1 {
+	margin: 5px;
+    display: inline-block;
+    position: relative;
+	height: auto;
+	background-color: lightgray;
+}
+.border{
+    border: 8px solid #666;
+}
+.round{
+    border-radius: 25px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+}
+
+/* talk bubble contents */
+.talktext{
+    padding: 0.6em;
+    text-align: left;
+    line-height: 1.3em;
+    color: white;
+}
+.talktext p{
+  /* remove webkit p margins */
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+}
+
+.notification-icon{
+    text-align: center;
+}
+
+.notification-icon img{
+    height: 90px; 
+    width: 90px;
+}
+
+.format-asterisk{
+    color: red;
+}
+
+.format-optional-label{
+    font-size: 11px; 
+    color: #808080; 
+    padding-left: 5px;
+}
+
+.format-registration-button-next{
+    padding-top: 5px;
+}
+
+.format-register-header{
+    text-align: center;
+}
+.notice {
+    padding: 15px;
+    background-color: #fafafa;
+    border-left: 6px solid #7f7f84;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+       -moz-box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+            box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+}
+.notice-sm {
+    padding: 10px;
+    font-size: 80%;
+}
+.notice-warning {
+    border-color: #FEAF20;
+}
+.notice-warning>strong {
+    color: #FEAF20;
+}
+
